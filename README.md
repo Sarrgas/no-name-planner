@@ -19,6 +19,7 @@ Detta segment är mer för min egen skull. Jag vill göra detta som en övning, 
 
 - Frontend med Vue
 - Stil med Vuetify
+- Mobilapp med Cordova (?) (https://cordova.apache.org/)
 - Backend med .NET Core
 - Databas med PostgreSQL
 - Docker
