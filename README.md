@@ -46,7 +46,8 @@ När man klickar sig in på en scen kan man ta del av allt material - instuderin
 BONUS: Infon om vilket rep det var ifrån borde vara en länk till avsett rep.
 
 ### Profil
-Användarens personliga profil. Här rapporterar de bland annat planerad frånvaro.
+Användarens personliga profil. Här rapporterar hen bland annat planerad frånvaro, och kan även se vilka grupper hen blivit tilldelad.
+I samband med frånvaron kan hen även se en lista på de rep hen har missat, med länk till avsett rep. Så de kan öva materialet på egen hand. 
 NOTE: Just nu kommer jag bara på just "planerad frånvaro" som en feature i Profil-sidan. Om det bara blir det, kanske det går att implementera på annat vis?
 
 ## Adminläge
