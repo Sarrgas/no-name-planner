@@ -11,7 +11,7 @@ På "rep"-sidan bör det även visas vilka som har förhinder pga planerad från
 Det behöver även finnas möjlighet att registrera oplanerad frånvaro. Om Person A aldrig dök upp på repet, eller blev sjuk, ska det gå att registreras efteråt. Detta för att underlätta översiktsvyn.
 
 ## Roller och Grupper
-I kopplar man vem som gör vad genom att ge de Roller. Exempelvis "Ensemble", "Dans", "Melchior (huvudroll)", "Orkester". Dessa roller kan grupperas i grupper. Alternativt bara grupper? Gör det mer skada än nytta med flera steg här, kanske?
+Här kopplar man vem som gör vad genom att ge dem Roller. Exempelvis "Ensemble", "Dans", "Melchior (huvudroll)", "Orkester". Dessa roller kan grupperas i grupper. Alternativt bara grupper? Gör det mer skada än nytta med flera steg här, kanske?
 
 ## Användare
 En användare ska kunna gå in och se sitt personliga schema - baserat på vilka rep hen är registrerad på. Hen ska även kunna rapportera sin planerade frånvaro på sin profil, vilket då kommer synas på repen.
