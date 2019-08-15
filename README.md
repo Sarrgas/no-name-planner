@@ -41,6 +41,7 @@ Gränssnittet behöver två lägen (menyval?). Visningsläge och adminläge.
 Visningsläget är default-sidan för alla som går in på systemet, och har huvudsakligen tre sidor: Rep, Scener och Profil
 ### Rep-sidan
 Repsidan visar by-default nästa rep i fokus. Men man kan skrolla sig till både gamla rep och efterkommande rep (om de har registrerats ännu). Varje rep visar: Tid och plats, vilken scen som repas, med vilka personer, samt länkar till material (Manus, filmklipp (Google Drive/Youtube) osv). Implementeras med en namngiven länk helt enkelt. En länk "manus" kan gå till ett Google Drive dokument.
+Listan på rep kan filtreras genom ett filter "Visa bara mina rep", varpå man endast visar de rep som användaren är registrerad på.
 ### Scener-sidan
 På scener-sidan får man en helhetsbild av föreställningen. Den visar en lista med scener (som cards), uppdelade i akter. Varje card visar namnet på scenen, dens "status" och hur många gånger man repat den. Man ska kunna sortera denna lista efter: Kronologisk ordning (ordningen de kommer i musikalen), antal rep (lägsta till högsta) och status (värsta till bästa).
 När man klickar sig in på en scen kan man ta del av allt material - instudering, manus, filmklipp från tidigare rep. Man ska kunna nå materialet utan att minnas vilket rep det var ifrån, MEN det bör framgå på något vis vilket rep det var ifrån. Om man exempelvis material 1 säger emot material 2, så behöver man veta vilken information som var nyast, då den sannolikt gäller. 
