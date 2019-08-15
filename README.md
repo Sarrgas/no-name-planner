@@ -18,6 +18,7 @@ En användare ska kunna gå in och se sitt personliga schema - baserat på vilka
 
 ## Scener
 Ett perspektiv man ska kunna se i systemet är helhetsbilden av uppsättningen. Exempelvis om man vill titta på materialet från Akt 1 scen 5 så behöver man inte leta upp avsett rep, utan man kan navigera till "Akt 1 scen 5" från helhetsbilden, och därmed se allt material från tidigare rep. Samt frånvaro-status om någon missat att repa just denna scen. Eventuell en "status" på hur välrepad denna scen är - alltså om den behöver mer jobb eller är "färdig".
+Bonus: En yta med "övergripande" information om föreställningen i helhet. Exempelvis manus, karaktärsblad, spellistor, videolänkar, rekvisitalistor, scen-modeller osv....
 
 ## Icke-funktionella krav
 Systemet ska vara någorlunda mobilanpassat. Åtminstone vad gäller läsning. Man ska kunna fråga sig "Vad skulle vi göra nästa rep?" och få svar genom mobilsidan.
