@@ -33,6 +33,8 @@ Detta segment är mer för min egen skull. Jag vill göra detta som en övning, 
 - Docker
 - Hostad på Heroku
 
+Notera: Om du vill nyttja Cordova för appar kan det vara sund att hålla frontend och backend helt separerade. Det är bara frontenden jag vill konvertera till app, backenden ska köras på en server oavsett.
+
 # GUI-tankar
 Gränssnittet behöver två lägen (menyval?). Visningsläge och adminläge.
 ## Visningsläget
