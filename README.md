@@ -4,6 +4,7 @@ Systemet har ännu inget namn, vilket är OK under kravsamlingsfas, men namnet b
 
 # Kravinsamling
 Här samlar jag de krav jag kommer på, och hittar/hör på annat håll.
+Systemets fokus bör ligga på att hjälpa arrangörerna. Systemets användare är därmed huvudsakligen regissörer och dylikt. Att andra roller kan nå systemet är en bonus, för att se repschema och registrera sin frånvaro.
 
 ## Repetition
 Systemets kärnfunktion bör vara hantering av "rep". Ett rep innehåller tid och plats, så väl som vilka roller/personer som ska vara med (Exempelvis "Dansare" eller "Stråksektionen") samt instuderingsmaterialet inför repet. Det ska även finnas plats för material efter repet. Exempelvis ett filmklipp från danskoreografin, ljudinspelningar osv.
