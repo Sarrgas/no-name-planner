@@ -32,7 +32,6 @@ Detta segment är mer för min egen skull. Jag vill göra detta som en övning, 
 - Databas med PostgreSQL
 - Docker
 - Hostad på Heroku
-- Behövs en webhost? Nginx?
 
 # GUI-tankar
 Gränssnittet behöver två lägen (menyval?). Visningsläge och adminläge.
