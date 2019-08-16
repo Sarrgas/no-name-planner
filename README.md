@@ -6,6 +6,14 @@ Systemet har ännu inget namn, vilket är OK under kravsamlingsfas, men namnet b
 Här samlar jag de krav jag kommer på, och hittar/hör på annat håll.
 Systemets fokus bör ligga på att hjälpa arrangörerna. Systemets användare är därmed huvudsakligen regissörer och dylikt. Att andra roller kan nå systemet är en bonus, för att se repschema och registrera sin frånvaro.
 
+En problemställning: Inloggning och användarkonton. Jag vill ha någon nivå av användarkonton för följande krav:
+- Systemet måste kunna användas av flera musikaluppsättningar på olika håll utan att påverka varandra. Exempelvis om både WES och Decibel vill nyttja det, ska de kunna leva i olika "bubblor".
+- "Vanliga" användare ska kunna rapportera sin egen frånvaro ("jag är utomlands dessa datum") och även se sitt personliga schema.
+MEN jag vill undvika en situation där arrangören är beroende av att samtliga deltagare har registrerat ett eget konto. Arrangören måste kunna planera repen utan registrerade användarkonton.
+Ska en deltagarna kunna använda systemet "anonymt" (utan konto)? Hur hade det funkat med första punkten ovan? Ha projektnamnet i URLen helt enkelt?
+
+Lösningsförslag: Arrangören registrerar ett konto, och skapar ett nytt projekt. Där kan hen ange en fullständig lista med deltagare, varpå deltagarna "finns" och kan användas fullt ut av arrangören. Senare kan deltagarna frivilligt skapa egna konton och säga "Detta är jag" på en av deltagarna.
+
 ## Repetition
 Systemets kärnfunktion bör vara hantering av "rep". Ett rep innehåller tid och plats, så väl som vilka roller/personer som ska vara med (Exempelvis "Dansare" eller "Stråksektionen") samt instuderingsmaterialet inför repet. Det ska även finnas plats för material efter repet. Exempelvis ett filmklipp från danskoreografin, ljudinspelningar osv.
 På "rep"-sidan bör det även visas vilka som har förhinder pga planerad frånvaro.
