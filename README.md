@@ -14,7 +14,7 @@ MEN jag vill undvika en situation där arrangören är beroende av att samtliga 
 Ska en deltagare kunna använda systemet "anonymt" (utan konto)? Hur hade det funkat med första punkten ovan? Ha projektnamnet i URLen helt enkelt?
 
 <b>Lösningsförslag</b>: Arrangören registrerar ett konto, och skapar ett nytt projekt. Där kan hen ange en fullständig lista med deltagare, varpå deltagarna "finns" och kan användas fullt ut av arrangören. Senare kan deltagarna frivilligt skapa egna konton och säga "Detta är jag" på en av deltagarna.
-Genom att helt enkelt inkludera projektnamnet i URLen kan en deltagare se rep, material och scener utan inloggning. Personligt schema och frånvarohantering fungerar då genom att välja deltagare i en lista.
+Genom att helt enkelt inkludera projektets genererade ID i URLen kan en deltagare se rep, material och scener utan inloggning. Att nyttja ett genererat icke-sekventiellt ID istället för projektnamn ger flera fördelar. Dels kan flera arrangörer skapa projekt med samma namn (exempelvis "Terminsavslutning"), och icke-sekventiell generering sänker risken att gå in på någon annans projekt (om ditt projekt har ID 5, finns det sannolikt ett projekt med ID 4). Personligt schema och frånvarohantering fungerar då genom att välja deltagare i en lista.
 
 ## Repetition
 Systemets kärnfunktion bör vara hantering av "rep". Ett rep innehåller tid och plats, så väl som vilka roller/personer som ska vara med (Exempelvis "Dansare" eller "Stråksektionen") samt instuderingsmaterialet inför repet. Det ska även finnas plats för material efter repet. Exempelvis ett filmklipp från danskoreografin, ljudinspelningar osv.
