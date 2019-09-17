@@ -3,6 +3,11 @@ Jag vill göra ett ordentligt hobby-projekt. Ett webbsystem för att planera mus
 Systemet har ännu inget namn, vilket är OK under kravsamlingsfas, men namnet borde spikas innan kodprojekt startar, då vissa saker (Visual Studio, databaser osv) kan bli mycket trassel att byta namn på efteråt.
 Systemet ska kunna ersätta ett excel-baserat repschema, se exempel i screenshot "excel-schema.png".
 
+Potentiella namn:
+* Roperia
+* Roperon
+* Ropendar
+
 # Kravinsamling
 Här samlar jag de krav jag kommer på, och hittar/hör på annat håll.
 Systemets fokus bör ligga på att hjälpa arrangörerna. Systemets användare är därmed huvudsakligen regissörer och dylikt. Att andra roller kan nå systemet är en bonus, för att se repschema och registrera sin frånvaro.
