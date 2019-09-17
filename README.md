@@ -56,6 +56,8 @@ Notera: Om du vill nyttja Cordova för appar kan det vara sund att hålla fronte
 
 # GUI-tankar
 Gränssnittet behöver två lägen (menyval?). Visningsläge och adminläge. Jag estimerar att visningsläget huvudsakligen kommer användas från mobiler, medan admin-läget kan prioritera en desktop-experience.
+
+Mockup sketch i Moqups: https://app.moqups.com/Z9W7GQKhM0/view
 ## Visningsläget
 Visningsläget är default-sidan för alla som går in på systemet, och har huvudsakligen tre sidor: Rep, Scener och Profil
 ### Rep-sidan
