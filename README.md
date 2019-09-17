@@ -1,6 +1,7 @@
 # no-name-planner
 Jag vill göra ett ordentligt hobby-projekt. Ett webbsystem för att planera musikalproduktioner, bandrep och dylikt.
 Systemet har ännu inget namn, vilket är OK under kravsamlingsfas, men namnet borde spikas innan kodprojekt startar, då vissa saker (Visual Studio, databaser osv) kan bli mycket trassel att byta namn på efteråt.
+Systemet ska kunna ersätta ett excel-baserat repschema, se exempel i screenshot "excel-schema.png".
 
 # Kravinsamling
 Här samlar jag de krav jag kommer på, och hittar/hör på annat håll.
