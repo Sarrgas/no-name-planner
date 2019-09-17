@@ -20,6 +20,7 @@ Genom att helt enkelt inkludera projektets genererade ID i URLen kan en deltagar
 Systemets kärnfunktion bör vara hantering av "rep". Ett rep innehåller tid och plats, så väl som vilka roller/personer som ska vara med (Exempelvis "Dansare" eller "Stråksektionen") samt instuderingsmaterialet inför repet. Det ska även finnas plats för material efter repet. Exempelvis ett filmklipp från danskoreografin, ljudinspelningar osv.
 På "rep"-sidan bör det även visas vilka som har förhinder pga planerad frånvaro.
 Det behöver även finnas möjlighet att registrera oplanerad frånvaro. Om Person A aldrig dök upp på repet, eller blev sjuk, ska det gå att registreras efteråt. Detta för att underlätta översiktsvyn.
+Då rep ibland kan vara långa - exempelvis heldagsrep - bör man även kunna ange estimerat schema under dagen. Exempelvis om Person A bara deltar i Scen 5, men vi har ett heldagsrep för Scen 1-8, ska inte Person A behöva slösa hela sin dag om hen bara behövdes i en timme.
 
 ## Roller och Grupper
 Här kopplar man vem som gör vad genom att ge dem Roller. Exempelvis "Ensemble", "Dans", "Melchior (huvudroll)", "Orkester". Dessa roller kan grupperas i grupper. Alternativt bara grupper? Gör det mer skada än nytta med flera steg här, kanske?
